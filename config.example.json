@@ -1,0 +1,13 @@
+{
+    "api_key": "YOUR_GROQ_API_KEY_HERE",
+    "server": {
+        "host": "127.0.0.1",
+        "port": 8000
+    },
+    "monitoring": {
+        "check_interval": 5,
+        "ai_enabled": true,
+        "fallback_mode": true,
+        "notification_enabled": true
+    }
+}
