@@ -5,6 +5,7 @@
 - **Python 3.10+** — https://www.python.org/downloads/
 - **Windows 10/11** — window tracking uses Win32 APIs
 - **Free Groq API key** — https://console.groq.com/keys
+- **Downoald this ZIP, and unpack**
 ## Setup
 
 ### 1. Install dependencies
